@@ -4,6 +4,7 @@ An advanced healthcare application that integrates Generative AI with Electronic
 
 ---
 The project follows an end-to-end pipeline consisting of four major stages, each building upon the previous one.
+By automating clinical notes, streamlining ICD-10 coding, and enhancing medical image resolution, this system empowers clinicians to spend less time on non-clinical tasks and more time on patient care.
 
 ---
 
